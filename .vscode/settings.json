@@ -1,0 +1,4 @@
+{
+    "html.autoClosingTags": true,
+    "html.suggest.hideEndTagSuggestions": true
+}

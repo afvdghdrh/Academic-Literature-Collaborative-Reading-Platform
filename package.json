@@ -1,0 +1,16 @@
+{
+  "name": "academic-lit-reader",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.3"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0"
+  }
+}

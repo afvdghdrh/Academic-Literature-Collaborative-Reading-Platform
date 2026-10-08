@@ -2,15 +2,17 @@
   "name": "academic-lit-reader",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
     "vite": "^8.3.3"
   },
   "dependencies": {
-    "animejs": "^4.5.0"
+    "animejs": "^4.5.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   }
 }
